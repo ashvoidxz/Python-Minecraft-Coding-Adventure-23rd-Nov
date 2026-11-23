@@ -68,10 +68,10 @@ description()
 # Task 7:
 
 def intro(name):
-    print("hello" + name)
+    print("hello " + name)
 
 name = "Asha"
-intro(name)
+intro("Asha")
 
 
 
