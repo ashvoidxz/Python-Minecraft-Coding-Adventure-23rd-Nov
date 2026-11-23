@@ -19,6 +19,7 @@ print("....")
 # Task 3:
 
 animal_1 = "Tiger" # string
+animal1 = "Zebra"
 num1 = 3 # integer - number
 num2 = "6"
 
