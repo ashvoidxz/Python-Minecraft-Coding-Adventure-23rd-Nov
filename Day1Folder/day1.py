@@ -30,13 +30,13 @@
 
 
 ans = 1+1 #2
+print(ans)
 ans = 1-1 #0
 print(ans)
-
 ans = 1*1 #1
-
+print(ans)
 ans = 10/2 #5
-
+print(ans)
 
 
 
