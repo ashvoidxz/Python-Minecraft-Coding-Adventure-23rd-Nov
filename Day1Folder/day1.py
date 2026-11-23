@@ -31,7 +31,7 @@
 
 ans = 1+1 #2
 ans = 1-1 #0
-ans = 1*1
+ans = 1*1 #1
 ans = 10/2
 
 print(ans)
