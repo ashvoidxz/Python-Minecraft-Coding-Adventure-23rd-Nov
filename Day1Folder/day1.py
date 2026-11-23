@@ -19,7 +19,7 @@ print("....")
 # Task 3:
 
 gdfgfd = "Tiger" # string
-animal1 = "Zebra"
+animal1 = "fgfdgdfg"
 num1 = 3 # integer - number
 num2 = "6"
 
