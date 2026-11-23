@@ -70,7 +70,6 @@ description()
 def intro(name):
     print("hello " + name)
 
-# name = "Asha"
 intro("Asha")
 
 
