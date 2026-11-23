@@ -1,11 +1,11 @@
 # Write all your codes for Day 1 here.
 # COMMENT out the previous task before going on to the next task
-print("hi from day1") 
+# print("hi from day1") 
 
 ########################################################################
 # Task 1:
 
-print("....")
+# print("....")
 
 
 ########################################################################
@@ -22,6 +22,7 @@ animal_1 = "Tiger" # string
 animal1 = "Zebra"
 num1 = 3 # integer - number
 num2 = "6"
+
 
 print(animal_1)
 print(animal1)
