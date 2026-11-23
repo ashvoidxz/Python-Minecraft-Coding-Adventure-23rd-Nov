@@ -29,10 +29,10 @@
 # print(num2)
 
 
-ans = 1+1 #2
-print(ans)
-ans = 10/ans #5
-print(ans)
+# ans = 1+1 #2
+# print(ans)
+# ans = 10/ans #5
+# print(ans)
 
 
 
