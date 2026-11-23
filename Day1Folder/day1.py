@@ -1,6 +1,6 @@
 # Write all your codes for Day 1 here.
 # COMMENT out the previous task before going on to the next task
-print("hi from day1") ## 
+print("hi from day1") ## i just printed hi from day 1 
 
 ########################################################################
 # Task 1:
