@@ -30,12 +30,8 @@
 
 
 ans = 1+1 #2
-
-ans = 1-1 #0
-
-ans = 1*1 #1
 print(ans)
-ans = 10/2 #5
+ans = 10/ans #5
 print(ans)
 
 
