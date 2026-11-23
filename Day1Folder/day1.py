@@ -70,6 +70,8 @@ description()
 def intro(name):
     print("hello" + name)
 
+intro(name)
+
 
 
 ########################################################################
