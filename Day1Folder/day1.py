@@ -68,7 +68,7 @@ description()
 # Task 7:
 
 def intro(name):
-    print("hello")
+    print("hello" + name)
 
 
 
