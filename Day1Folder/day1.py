@@ -18,11 +18,11 @@ print("....")
 ########################################################################
 # Task 3:
 
-animal1 = "Tiger" # string
+animal_1 = "Tiger" # string
 num1 = 3 # integer - number
 num2 = "6"
 
-print(animal1)
+print(animal_1)
 print(num1)
 print(num2)
 
