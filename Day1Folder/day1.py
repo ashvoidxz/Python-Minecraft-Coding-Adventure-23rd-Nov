@@ -62,7 +62,8 @@ def description():
     print("Hello my name is Asha ")
 
 
-
+description()
+description
 ########################################################################
 # Task 7:
 
