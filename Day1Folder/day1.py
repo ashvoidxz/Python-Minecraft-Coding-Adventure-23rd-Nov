@@ -22,7 +22,7 @@ animal1 = "Tiger" # string
 num1 = 3 # integer - number
 num2 = "6"
 
-print(animal1 = "Tiger")
+print(animal1)
 
 ########################################################################
 # Task 4:
