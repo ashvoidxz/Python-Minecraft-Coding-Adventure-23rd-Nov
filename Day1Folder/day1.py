@@ -50,8 +50,9 @@
 # Task 5:
 string1 = "hello"
 string2 = "world"
+space = " "
 
-print(string1 + ' ' + string2)
+print(string1 + space + string2)
 
 
 ########################################################################
