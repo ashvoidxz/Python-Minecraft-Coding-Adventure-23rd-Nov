@@ -18,12 +18,12 @@ print("....")
 ########################################################################
 # Task 3:
 
-gdfgfd = "Tiger" # string
-animal1 = "fgfdgdfg"
+animal_1 = "Tiger" # string
+animal1 = "Zebra"
 num1 = 3 # integer - number
 num2 = "6"
 
-print(gdfgfd)
+print(animal_1)
 print(animal1)
 print(num1)
 print(num2)
