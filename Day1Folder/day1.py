@@ -67,10 +67,10 @@ description()
 ########################################################################
 # Task 7:
 
-def intro(name):
+def intro(name,age):
     print("hello " + name)
 
-intro("Asha")
+intro("Asha", 23)
 
 
 
