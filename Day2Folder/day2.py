@@ -33,7 +33,7 @@
 
 name = "ADAM"
 
-for letter in "ADAM":
+for letter in name:
     print("Give me a " + letter)
 
 print("Who is the best?!?")
