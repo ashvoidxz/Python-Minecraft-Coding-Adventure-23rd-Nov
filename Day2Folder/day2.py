@@ -23,6 +23,8 @@
 for ifgf in "hello world":
     print(ifgf)
 
+print("Hello, my ")
+
 
 ########################################################################
 # Task 3:
