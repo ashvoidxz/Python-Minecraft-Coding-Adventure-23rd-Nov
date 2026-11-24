@@ -2,6 +2,8 @@
 # COMMENT out the previous task before going on to the next task
 print("hi from day2")
 
+for i in range(10):
+    print(i)
 
 
 ########################################################################
