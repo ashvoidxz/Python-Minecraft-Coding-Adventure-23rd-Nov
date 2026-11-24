@@ -3,7 +3,7 @@
 print("hi from day2")
 
 # count = 0
-for red in range(10):
+for  in range(10):
     print("Hello, good morning")
     # count+=1
 
