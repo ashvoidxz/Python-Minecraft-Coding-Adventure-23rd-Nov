@@ -64,8 +64,8 @@ for i in range(5,33):
 ########################################################################
 # Task 6:
 
-for i in range():
-    print(i)
+# for i in range():
+#     print(i)
 
 
 
