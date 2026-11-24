@@ -20,12 +20,12 @@
 
 ########################################################################
 # Task 2:
-for ifgf in "hello world":
-    print(ifgf)
+# for ifgf in "hello world":
+#     print(ifgf)
 
-name = "asha"
+# name = "asha"
 
-print("Hello, my " + name )
+# print("Hello, my " + name )
 
 
 ########################################################################
