@@ -32,7 +32,7 @@ print("Hello, my " + name )
 # Task 3:
 
 for letter in "ADAM":
-    print("Give me a ")
+    print("Give me a " + )
 
 
 
