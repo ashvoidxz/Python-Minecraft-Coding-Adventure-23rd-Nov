@@ -11,7 +11,7 @@ print(count)
 
 
 for i in range(10):
-    print("Hello, good morning")
+    print("Hello, good morning", i)
 
 ########################################################################
 # Task 1:
