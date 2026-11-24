@@ -5,6 +5,7 @@ print("hi from day2")
 count = 0
 for i in range(1,10):
     print("Hello, good morning")
+    count+=1
 
 
 ########################################################################
