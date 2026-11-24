@@ -54,7 +54,7 @@
 
 
 
-for i in range(1,11,3):
+for i in range(1,11,4):
     print(i)
 
 
