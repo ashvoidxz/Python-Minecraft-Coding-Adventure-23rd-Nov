@@ -23,7 +23,9 @@
 for ifgf in "hello world":
     print(ifgf)
 
-print("Hello, my ")
+name = "asha"
+
+print("Hello, my " + name )
 
 
 ########################################################################
