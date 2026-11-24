@@ -31,7 +31,7 @@
 ########################################################################
 # Task 3:
 
-name = 
+name = "ADAM"
 
 for letter in "ADAM":
     print("Give me a " + letter)
