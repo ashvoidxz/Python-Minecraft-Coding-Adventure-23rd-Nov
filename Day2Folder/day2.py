@@ -1,17 +1,17 @@
 # Write all your codes for Day 2 here.
 # COMMENT out the previous task before going on to the next task
-print("hi from day2")
+# print("hi from day2")
 
-# count = 0
-for i in range(10):
-    print("Hello, good morning")
-    # count+=1
+# # count = 0
+# for i in range(10):
+#     print("Hello, good morning")
+#     # count+=1
 
-#print(count)
+# #print(count)
 
 
-for i in range(10):
-    print("Hello, good morning", i)
+# for i in range(10):
+#     print("Hello, good morning", i)
 
 ########################################################################
 # Task 1:
@@ -21,6 +21,7 @@ for i in range(10):
 ########################################################################
 # Task 2:
 for letter in "hello":
+    print(letter)
 
 
 ########################################################################
