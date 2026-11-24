@@ -34,6 +34,8 @@
 for letter in "ADAM":
     print("Give me a " + letter)
 
+print("")
+
 
 
 
