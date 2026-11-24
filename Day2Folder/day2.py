@@ -20,7 +20,7 @@
 
 ########################################################################
 # Task 2:
-for ifgf in "hello":
+for ifgf in "hello world":
     print(ifgf)
 
 
