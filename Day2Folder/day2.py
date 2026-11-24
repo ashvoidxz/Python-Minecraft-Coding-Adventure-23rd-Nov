@@ -3,7 +3,7 @@
 print("hi from day2")
 
 for i in range(1,10):
-    print("Hello, good morning")
+    print("Hello, good morning" + i)
 
 
 ########################################################################
