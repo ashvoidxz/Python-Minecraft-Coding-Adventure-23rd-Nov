@@ -2,8 +2,9 @@
 # COMMENT out the previous task before going on to the next task
 print("hi from day2")
 
+count = 0
 for i in range(1,10):
-    print("Hello, good morning" + i)
+    print("Hello, good morning")
 
 
 ########################################################################
