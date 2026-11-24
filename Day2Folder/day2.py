@@ -31,13 +31,13 @@
 ########################################################################
 # Task 3:
 
-name = "ADAM"
+# name = "ADAM"
 
-for letter in name:
-    print("Give me a " + letter +"!" )
+# for letter in name:
+#     print("Give me a " + letter +"!" )
 
-print("Who is the best?!?")
-print(name + "!!")
+# print("Who is the best?!?")
+# print(name + "!!")
 
 
 
@@ -51,6 +51,13 @@ print(name + "!!")
 
 ########################################################################
 # Task 4:
+
+
+
+for i in range(1,11,2)
+
+
+
 
 
 
