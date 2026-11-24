@@ -7,7 +7,7 @@ for red in range(10):
     print("Hello, good morning")
     # count+=1
 
-print(count)
+#print(count)
 
 
 for i in range(10):
