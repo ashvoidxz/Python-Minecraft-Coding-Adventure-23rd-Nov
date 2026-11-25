@@ -27,7 +27,7 @@ def name():
 
 num = input("Enter a num: ")
 
-
+print(name + "bought " + )
 
 
 
