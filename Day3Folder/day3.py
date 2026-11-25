@@ -98,5 +98,8 @@ ans_sum = input("What is the sum of " + str(num1) + " + " + str(num2) +"? ")
 
 sum = num1 + num2 
 
+if ans_sum == sum:
+    print("Correct")
+
 ########################################################################
 # Additional exercises:
