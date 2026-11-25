@@ -56,7 +56,7 @@ print("hi from day3")
 num1 = 45
 num2 = 36
 
-if num1 == num2:
+if num1 > num2:
     print("num1 is equals to num2")
 else:
     print("Not equals to")
