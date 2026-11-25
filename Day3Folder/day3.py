@@ -33,7 +33,7 @@ print("hi from day3")
 # # print( namee, "bought " + num + "pens")
 
 # name = "asha"
-# num_pens = int(input("Enter a number:")
+# num_pens = int(input("Enter a number:"))
 # def sentence(name, num_pens):
 #     print(name + " bought " + str(num_pens) + " pens" )
 
