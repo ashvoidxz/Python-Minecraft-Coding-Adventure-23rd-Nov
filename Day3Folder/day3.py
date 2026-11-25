@@ -32,7 +32,9 @@ print("hi from day3")
 
 # print( namee, "bought " + num + "pens")
 
-name = ""
+name = "asha"
+num_pens = input("Enter a number:")
+
 
 ########################################################################
 # Task 3:
