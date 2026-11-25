@@ -24,15 +24,15 @@ print("hi from day3")
 
 ##global variable and local variable
 
-def name(namee):
-    namee = "Ben"
+# def name(namee):
+#     namee = "Ben"
     
-name(namee)
-num = input("Enter a num: ")
+# name(namee)
+# num = input("Enter a num: ")
 
-print( namee, "bought " + num + "pens")
+# print( namee, "bought " + num + "pens")
 
-
+name = ""
 
 ########################################################################
 # Task 3:
