@@ -87,7 +87,7 @@
 # Task 7:
 import random ##libary
 
-int1 = random.randint(2,6)
+int1 = random.randint(1,100)
 
 print(int1)
 ########################################################################
