@@ -30,7 +30,7 @@ def name(name):
 name(name)
 num = input("Enter a num: ")
 
-print(name + "bought " + num + "pens")
+print(name , "bought " + num + "pens")
 
 
 
