@@ -20,7 +20,7 @@ var2 = "3"
 var3 = input("State a number: ") ##String data type
 
 print(var1 + int(var3))
-print(str(var1) + int(var3))
+print(str(var1) + var2)
 
 
 ########################################################################
