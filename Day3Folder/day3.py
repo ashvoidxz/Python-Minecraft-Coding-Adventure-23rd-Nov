@@ -100,6 +100,8 @@ sum = num1 + num2
 
 if ans_sum == sum:
     print("Correct")
+else:
+    print("Go see principal")
 
 ########################################################################
 # Additional exercises:
