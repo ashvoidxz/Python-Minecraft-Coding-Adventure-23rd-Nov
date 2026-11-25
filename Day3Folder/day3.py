@@ -17,7 +17,7 @@ print("hi from day3")
 var1 = 2
 var2 = "3"
 
-var3 = input("")
+var3 = input("State a number: ") 
 
 print(str(var1) + var2)
 
