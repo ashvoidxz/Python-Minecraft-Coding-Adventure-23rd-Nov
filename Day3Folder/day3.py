@@ -17,9 +17,9 @@ print("hi from day3")
 var1 = 2
 var2 = "3"
 
-var3 = input("State a number: ") ##String
+var3 = input("State a number: ") ##String data type
 
-print(str(var1) + var2)
+print(str(var1) + var3)
 
 
 ########################################################################
