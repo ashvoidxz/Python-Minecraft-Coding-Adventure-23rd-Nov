@@ -92,8 +92,8 @@ for i in range(10):
     print(int1)
 ########################################################################
 # Task 8:
-num1 = random.randomint(1,100)
-num2 = random.randomint(1,100)
+num1 = random.randint(1,100)
+num2 = random.randint(1,100)
 ans_sum = input("What is the sum of " + str(num1) + " + " + str(num1))
 
 
