@@ -23,11 +23,10 @@ print("hi from day3")
 # print(str(var1) + var2)
 
 ##global variable and local variable
-VAR = 0
+
 def name(namee):
     namee = "Ben"
     
-
 name(namee)
 num = input("Enter a num: ")
 
