@@ -89,7 +89,7 @@ import random ##libary
 
 int1 = random.randint(2,6)
 
-
+print(int1)
 ########################################################################
 # Task 8:
 
