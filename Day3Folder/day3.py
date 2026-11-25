@@ -64,6 +64,7 @@ print("hi from day3")
 
 
 age1 = int(input("What is your age: "))
+age2 = input("what is y")
 
 
 ########################################################################
