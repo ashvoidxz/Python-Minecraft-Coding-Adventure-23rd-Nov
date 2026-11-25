@@ -22,7 +22,7 @@ print("hi from day3")
 # print(var1 + int(var3))
 # print(str(var1) + var2)
 
-namee = ""
+
 def name(namee):
     return
 namee = "Ben"
