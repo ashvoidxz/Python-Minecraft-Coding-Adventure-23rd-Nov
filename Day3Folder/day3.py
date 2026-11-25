@@ -63,13 +63,13 @@
 #     print("Not ")
 
 
-age1 = int(input("What is your age: "))
-age2 = int(input("what is your age: "))
+# age1 = int(input("What is your age: "))
+# age2 = int(input("what is your age: "))
 
-if age1 >= age2:
-    print("Age1 is older than age2")
-else:
-    print("Age1 is not older than age2")
+# if age1 >= age2:
+#     print("Age1 is older than age2")
+# else:
+#     print("Age1 is not older than age2")
 
 ########################################################################
 # Task 6:
