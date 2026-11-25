@@ -24,7 +24,7 @@ print("hi from day3")
 
 namee = ""
 def name(namee):
-    namee = "Ben"
+    return namee == "Ben"
     
 
 name(namee)
