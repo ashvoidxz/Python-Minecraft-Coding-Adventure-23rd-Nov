@@ -66,6 +66,8 @@ print("hi from day3")
 age1 = int(input("What is your age: "))
 age2 = int(input("what is your age: "))
 
+if age1 >= age2:
+    print()
 
 ########################################################################
 # Task 6:
