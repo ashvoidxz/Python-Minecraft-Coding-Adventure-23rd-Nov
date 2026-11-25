@@ -59,7 +59,7 @@ num2 = 36
 if num1 == num2:
     print("num1 is equals to num2")
 else:
-    print("")
+    print("Not equals to")
 
 
 ########################################################################
