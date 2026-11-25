@@ -38,7 +38,7 @@ def sentence(name, num_pens):
     print(name + " bought " + str(num_pens) + " pens" )
 
 sentence("sara", 65)
-
+sentence("Bob", 23)
 
 ########################################################################
 # Task 3:
