@@ -57,7 +57,7 @@ num1 = 45
 num2 = 36
 str1 = "hello"
 str2 = "hi"
-if str1 == str2:
+if str1 >= str2:
     print("strings are same")
 else:
     print("Not ")
