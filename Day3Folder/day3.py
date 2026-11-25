@@ -80,7 +80,7 @@ grant = "Access grand"
 if enter_pw == real_pw:
     print("Access grand")
 else:
-    print()
+    print("Denied")
 
 
 ########################################################################
