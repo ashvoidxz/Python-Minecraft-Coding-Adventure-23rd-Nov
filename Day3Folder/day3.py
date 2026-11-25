@@ -22,28 +22,28 @@ print("hi from day3")
 # print(var1 + int(var3))
 # print(str(var1) + var2)
 
-##global variable and local variable
+# ##global variable and local variable
 
-# def name(namee):
-#     namee = "Ben"
+# # def name(namee):
+# #     namee = "Ben"
     
-# name(namee)
-# num = input("Enter a num: ")
+# # name(namee)
+# # num = input("Enter a num: ")
 
-# print( namee, "bought " + num + "pens")
+# # print( namee, "bought " + num + "pens")
 
-name = "asha"
-num_pens = input("Enter a number:")
-def sentence(name, num_pens):
-    print(name + " bought " + str(num_pens) + " pens" )
+# name = "asha"
+# num_pens = input("Enter a number:")
+# def sentence(name, num_pens):
+#     print(name + " bought " + str(num_pens) + " pens" )
 
-sentence("sara", 65)
-sentence("Bob", 23)
+# sentence("sara", 65)
+# sentence("Bob", 23)
 
-########################################################################
-# Task 3:
+# ########################################################################
+# # Task 3:
 
-print("The total cost of the items are: $" + str(int(num1) + int(num2)))
+# print("The total cost of the items are: $" + str(int(num1) + int(num2)))
 
 ########################################################################
 # Task 4:
@@ -58,6 +58,7 @@ num2 = 36
 
 if num1 == num2:
     print("num1 is equals to num2")
+    
 
 
 ########################################################################
