@@ -6,7 +6,7 @@ print("hi from day3")
 # Task 1:
 
 myName = input("What is your name? ")
-title = input("")
+title = input("State a title: ")
 
 print(myName)
 
