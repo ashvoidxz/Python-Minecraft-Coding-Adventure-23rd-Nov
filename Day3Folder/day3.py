@@ -34,7 +34,7 @@ print("hi from day3")
 
 name = "asha"
 num_pens = input("Enter a number:")
-
+print(name + " bought" )
 
 ########################################################################
 # Task 3:
