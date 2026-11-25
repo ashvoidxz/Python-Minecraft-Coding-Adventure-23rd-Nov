@@ -87,7 +87,8 @@
 # Task 7:
 import random ##libary
 
-int1 = random.randint(1,100)
+for i in range(10):
+    int1 = random.randint(1,100)
 
 print(int1)
 ########################################################################
