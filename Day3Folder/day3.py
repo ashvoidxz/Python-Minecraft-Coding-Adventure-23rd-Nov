@@ -25,7 +25,7 @@ print("hi from day3")
 def name():
     name = "Ben"
 
-
+num = input()
 
 
 
