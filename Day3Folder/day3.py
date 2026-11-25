@@ -5,11 +5,11 @@ print("hi from day3")
 ########################################################################
 # Task 1:
 
-myName = input("What is your name? ")
-title = input("State a title: ")
-command = input("State a command: ")
+# myName = input("What is your name? ")
+# title = input("State a title: ")
+# command = input("State a command: ")
 
-print(title + " " + myName + " commands the peasants to "+ command)
+# print(title + " " + myName + " commands the peasants to "+ command)
 
 
 ########################################################################
@@ -17,7 +17,7 @@ print(title + " " + myName + " commands the peasants to "+ command)
 var1 = 2
 var2 = "3"
 
-print(var1 +)
+print(var1 +var2)
 
 
 ########################################################################
