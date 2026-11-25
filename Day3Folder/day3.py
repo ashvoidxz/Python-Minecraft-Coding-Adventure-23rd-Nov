@@ -37,6 +37,8 @@ num_pens = input("Enter a number:")
 def sentence():
     print(name + " bought " + str(num_pens) + " pens" )
 
+sentence()
+
 
 ########################################################################
 # Task 3:
