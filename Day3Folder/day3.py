@@ -23,14 +23,14 @@ print("hi from day3")
 # print(str(var1) + var2)
 
 name = ""
-def name(name):
-    name = "Ben"
+def name(namee):
+    namee = "Ben"
     
 
-name(name)
+name(namee)
 num = input("Enter a num: ")
 
-print(name , "bought " + num + "pens")
+print(namee , "bought " + num + "pens")
 
 
 
