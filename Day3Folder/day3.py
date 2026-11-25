@@ -24,8 +24,7 @@ print("hi from day3")
 
 ##global variable and local variable
 def name(namee):
-    return
-namee = "Ben"
+    namee = "Ben"
     
 
 name(namee)
