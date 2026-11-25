@@ -43,7 +43,7 @@ sentence("Bob", 23)
 ########################################################################
 # Task 3:
 
-print("The total cost of the items are: $" + int(num1) + int(num2))
+print("The total cost of the items are: $" + str(int(num1) + int(num2)))
 
 ########################################################################
 # Task 4:
