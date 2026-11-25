@@ -37,7 +37,7 @@ num_pens = input("Enter a number:")
 def sentence(name, num_pens):
     print(name + " bought " + str(num_pens) + " pens" )
 
-sentence()
+sentence("sara")
 
 
 ########################################################################
