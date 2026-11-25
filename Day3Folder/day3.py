@@ -22,7 +22,7 @@ print("hi from day3")
 # print(var1 + int(var3))
 # print(str(var1) + var2)
 
-name = ""
+namee = ""
 def name(namee):
     namee = "Ben"
     
@@ -30,7 +30,7 @@ def name(namee):
 name(namee)
 num = input("Enter a num: ")
 
-print(namee , "bought " + num + "pens")
+print( namee, "bought " + num + "pens")
 
 
 
