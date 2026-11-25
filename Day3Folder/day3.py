@@ -14,13 +14,19 @@ print("hi from day3")
 
 ########################################################################
 # Task 2:
-var1 = 2
-var2 = "3"
+# var1 = 2
+# var2 = "3"
 
-var3 = input("State a number: ") ##String data type
+# var3 = input("State a number: ") ##String data type
 
-print(var1 + int(var3))
-print(str(var1) + var2)
+# print(var1 + int(var3))
+# print(str(var1) + var2)
+
+def name():
+    name = "Ben"
+
+
+
 
 
 ########################################################################
