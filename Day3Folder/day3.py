@@ -78,7 +78,9 @@ real_pw = "passme"
 enter_pw = input("Enter Password: ")
 grant = "Access grand"
 if enter_pw == real_pw:
-    print(grant)
+    print("Access grand")
+else:
+    print()
 
 
 ########################################################################
