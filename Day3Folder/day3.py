@@ -96,6 +96,7 @@ num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 ans_sum = input("What is the sum of " + str(num1) + " + " + str(num2) +"? ")
 
+sum = num1 + num2 
 
 ########################################################################
 # Additional exercises:
