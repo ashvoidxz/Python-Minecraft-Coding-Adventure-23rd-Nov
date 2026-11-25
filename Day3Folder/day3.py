@@ -27,7 +27,7 @@ def name(name):
     name = "Ben"
     
 
-name()
+name(name)
 num = input("Enter a num: ")
 
 print(name + "bought " + num + "pens")
