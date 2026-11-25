@@ -34,7 +34,7 @@ print("hi from day3")
 
 name = "asha"
 num_pens = input("Enter a number:")
-def sentence(name, num_pens):
+def sentence():
     print(name + " bought " + str(num_pens) + " pens" )
 
 
