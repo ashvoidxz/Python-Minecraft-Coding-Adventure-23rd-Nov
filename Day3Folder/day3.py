@@ -9,7 +9,7 @@ myName = input("What is your name? ")
 title = input("State a title: ")
 command = input("State a command: ")
 
-print(myName + " " + title + " commands the peasants to "+ command)
+print(title + " " + myName + " commands the peasants to "+ command)
 
 
 ########################################################################
