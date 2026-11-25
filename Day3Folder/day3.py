@@ -25,6 +25,7 @@ print("hi from day3")
 def name():
     name = "Ben"
 
+name()
 num = input("Enter a num: ")
 
 print(name + "bought " + num + "pens")
